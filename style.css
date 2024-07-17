@@ -1,0 +1,38 @@
+h1 {
+    color:black;
+    text-align: center;
+    background-color: white;
+    font-size: 50px;
+    margin: 10px;
+    padding: 30px;
+    height: 100px;
+    
+}
+
+h2 {
+    color: red;
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+    color: white;
+}
+h3 {
+    color:red ;
+    font-size: 30px;
+}
+
+ol {
+    font-size: 20px;
+    color: white;
+    text-align: left;
+}
+
+
+  img {
+    height: 30rem;
+    width: 30rem;
+    cursor: pointer;
+    transform-origin: 10px;
+    
+  }
